@@ -30,6 +30,7 @@ body {
   place-items: center;
   min-width: 320px;
   min-height: 100vh;
+  margin-bottom: 5rem;
 }
 
 h1 {
@@ -165,19 +166,24 @@ button:focus-visible {
   font-size: 1.2rem;
   margin-right: 2rem;
 }
+
 .header-group{
   display: flex;
   align-items: center;
 }
+
 .logo-container img{
   display: flex;
 }
+
 .logo{
   width: 70px;
 }
+
 .welcome-message{
   font-weight: 600;
-  font-family: 'Times New Roman', Times, serif;
+  font
+  -family: 'Times New Roman', Times, serif;
 }
 .homeimagetext{
   display: flex;
@@ -189,24 +195,25 @@ button:focus-visible {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
-
-
-  
 }
-/* .footer-header {
+
+.footer-header {
   display: flex;
   flex-direction: column;
   align-items: flex-end;
   list-style: none;
 }
+
 .footer-header ul{
   display: flex;
   list-style: none;
   justify-content: space-between;
-} */
+}
+
 .footer-mobile{
   display: none;
 }
+
 .footer-desktop {
 display: flex;
 list-style: none;
@@ -215,18 +222,22 @@ justify-content: space-between;
 margin-right: 2rem;
 height: 4rem;
 }
+
 .footer-desktop ul{
   list-style: none;
 }
+
 .social-media-footer {
   display: flex;
   list-style: none;
   flex-direction: row;
 }
+
 .social-media-footer li{
   margin-right: 10px;
   font-size: 25px;
 }
+
 .footer-name{
   color: #D9D9D9;
 }

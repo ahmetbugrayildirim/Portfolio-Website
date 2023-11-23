@@ -9,7 +9,7 @@ const Projects = () => {
         <ProjectCard project={projectMetadata.portfolio} content={contents[0]} />
         <ProjectCard project={projectMetadata.capstone} content={contents[1]} />
         <ProjectCard project={projectMetadata.game} content={contents[2]} />
-        <ProjectCard project={projectMetadata.mindset} content={contents[3]} />
+        <ProjectCard project={projectMetadata.school} content={contents[3]} />
         <ProjectCard project={projectMetadata.movie} content={contents[4]} />
         <ProjectCard project={projectMetadata.calculator} content={contents[5]} />
 

@@ -6,7 +6,6 @@ const Home = () => {
 
   return (
     <div className="home">
-      <h1>{pageId}</h1>
       <Project pageId={pageId} />
     </div>
   )

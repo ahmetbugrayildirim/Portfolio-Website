@@ -1,0 +1,34 @@
+.project-details {
+  display: flex;
+  gap: 2rem;
+}
+
+.project-details-title {
+  margin-bottom: 3rem;
+}
+
+.project-details-image {
+  max-width: 500px;
+}
+
+.project-details-description {
+  text-align: left;
+}
+
+.project-details-language {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+}
+
+.project-details-language h4 {
+  margin: 0;
+}
+
+.project-details-language ul {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}

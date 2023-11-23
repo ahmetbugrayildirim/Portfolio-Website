@@ -3,7 +3,9 @@ import logo from '../assets/logo.svg';
 const Links = ({ className }) => (
   <nav className={className}>
     <div className="logo-container desktop">
-      <img src={logo} alt="Logo" className="logo" href="/home" />
+      <a href="/home">
+        <img src={logo} alt="Logo" className="logo" />
+      </a>
     </div>
     <ul>
       <li><a href="/home">Home</a></li>
