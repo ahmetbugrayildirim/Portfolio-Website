@@ -11,7 +11,7 @@ export const projectMetadata = {
     imgUrl: '/src/assets/IMG_2972 5.jpg',
     name: 'Capstone Project',
     language: ['WordPress', 'PHP', 'CSS'],
-    description: 'Embark on a digital journey into the world of beauty with "Allure," our captivating capstone portfolio project. This exquisite hair salon website, meticulously crafted on the WordPress platform, radiates elegance and functionality. Immerse yourself in the allure of chic hairstyles and premium services, seamlessly navigated through WordPresss intuitive interface. Elevating the experience, React infuses dynamic elements, ensuring a modern and engaging interaction for visitors. From browsing trendsetting styles to effortless appointment bookings, our collaboration seamlessly marries the robustness of WordPress with the interactivity of React. Allure is more than a salon website; its a harmonious fusion of artistry, technology, and collaborative expertise.'
+    description: 'In Progress...'
   },
 
   game: {
@@ -24,7 +24,7 @@ export const projectMetadata = {
 
   school: {
     id: 'school',
-    imgUrl: '/src/assets/Mindset.jpg',
+    imgUrl: '/src/assets/School-Website.jpg',
     name: 'AB School Website',
     language: ['WordPress', 'PHP', 'CSS'],
     description: 'Explore the digital realm of AB School, my debut WordPress creation in collaboration with a talented groupmate. This school website seamlessly melds aesthetics and functionality, providing an immersive experience for students, parents, and educators alike. Navigating through WordPress user-friendly interface, AB School effortlessly manages dynamic content updates, ensuring the latest events, achievements, and announcements are showcased with ease. Witness the synergy of design and technology as my first foray into WordPress development transforms educational aspirations into a virtual reality. From the streamlined user experience to the vibrant representation of AB School ethos, this website stands as a testament to the limitless possibilities unlocked by mastering WordPress.'

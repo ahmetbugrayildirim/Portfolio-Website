@@ -1,3 +1,7 @@
+.project-details-image {
+  max-width: 500px;
+}
+@media screen and (min-width: 768px) {
 .project-details {
   display: flex;
   gap: 2rem;
@@ -31,4 +35,5 @@
   display: flex;
   flex-direction: column;
   align-items: flex-start;
+}
 }
