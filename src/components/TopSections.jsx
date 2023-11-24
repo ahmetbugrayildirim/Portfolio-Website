@@ -2,7 +2,7 @@ const TopSection = () => {
   return (
     <section className="homeimagetext">
       <div>
-        <img src="/src/assets/IMG_2972 5.jpg" alt="Image" className="image" />
+        <img src="/assets/IMG_2972 5.jpg" alt="Image" className="image" />
       </div>
       <div>
         <p className="welcome-message">

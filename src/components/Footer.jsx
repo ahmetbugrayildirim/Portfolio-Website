@@ -16,7 +16,7 @@ const Footer = () => {
             <li>@Ahmet Bugra Yildirim - 2024</li>
           </ul>
           <ul className="top-button">
-            <li><a href="/home">Top</a></li>
+            <li><a href="/">Top</a></li>
           </ul>
         </nav>
       
