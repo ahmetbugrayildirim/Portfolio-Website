@@ -8,10 +8,10 @@ export const projectMetadata = {
   
   capstone: {
     id: 'capstone',
-    imgUrl: '/src/assets/IMG_2972 5.jpg',
+    imgUrl: '/src/assets/Allure.jpg',
     name: 'Capstone Project',
     language: ['WordPress', 'PHP', 'CSS'],
-    description: 'In Progress...'
+    description: 'Embark on a digital journey into the world of beauty with "Allure," our captivating capstone portfolio project. This exquisite hair salon website, meticulously crafted on the WordPress platform, radiates elegance and functionality. Immerse yourself in the allure of chic hairstyles and premium services, seamlessly navigated through WordPresss intuitive interface. Elevating the experience, React infuses dynamic elements, ensuring a modern and engaging interaction for visitors. From browsing trendsetting styles to effortless appointment bookings, our collaboration seamlessly marries the robustness of WordPress with the interactivity of React. Allure is more than a salon website; its a harmonious fusion of artistry, technology, and collaborative expertise.'
   },
 
   game: {
